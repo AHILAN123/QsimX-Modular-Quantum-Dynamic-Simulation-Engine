@@ -4,3 +4,6 @@ A modular engine for simulating non-relativistic quantum systems using numerical
 1. Particle in a box simulation.
 2. A Quantum Harmonic Oscillator.
 3. Gaussian Wave Packet + Potential Barrier(Tunelling)
+
+
+__TO BE CONTINUED__ 

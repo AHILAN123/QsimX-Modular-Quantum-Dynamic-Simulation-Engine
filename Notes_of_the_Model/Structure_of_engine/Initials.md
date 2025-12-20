@@ -25,4 +25,19 @@
    
     Observables
 
-  
+# WHY A WAVEFUNCTION CONTAINER?
+1). We create a wavefunction container that stores the value of the wavefunction at different points on grid.
+
+2). Handle complex numbers (because ψ is generally complex)
+
+3). Provide access and initialization functions
+
+4) .Support operations later like normalization, probability density calculation, etc.
+
+
+# Outcome : - 
+ 1). Grid → defines space
+
+ 2). Wavefunction → defines the physical state on that space
+
+ 3). Grid + Wavefunction → now we can start building Hamiltonian and dynamics
